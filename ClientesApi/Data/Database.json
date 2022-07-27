@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Geralt Rivia",
+    "Email": "geraltrivia@email.com",
+    "CPF": "123.456.789-00",
+    "RG": "12.345.678-x",
+    "Telefone": "11976537741",
+    "Endereco": "Escola do Lobo"
+  },
+  {
+    "Id": 2,
+    "Nome": "Ciri",
+    "Email": "ciri@email.com",
+    "CPF": "123.456.756-01",
+    "RG": "12.345.678-x",
+    "Telefone": "11978037763",
+    "Endereco": "Castelo de Cintra"
+  },
+  {
+    "Id": 3,
+    "Nome": "Yennefer Vengerberg",
+    "Email": "yennefervengerberg@email.com",
+    "CPF": "123.456.329-10",
+    "RG": "12.345.642-2",
+    "Telefone": "11978035884",
+    "Endereco": "Academia Aretuza"
+  },
+  {
+    "Id": 4,
+    "Nome": "Triss Merigold",
+    "Email": "triss@email.com",
+    "CPF": "987254367-51",
+    "RG": "45800123-1",
+    "Telefone": "11967254410",
+    "Endereco": "Academia Aretuza"
+  }
+]
