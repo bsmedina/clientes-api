@@ -27,19 +27,19 @@ Para utilizar esse projeto será necessário ter em sua máquina, as seguintes f
 
 bash
 # Clonar este repositório
-$ git clone <[https://github.com/bsmedina/ClientesAPI.git]>
+$ git clone <https://github.com/bsmedina/ClientesAPI.git>
 
-# Abrir projeto no Visual Studio
+$ Abrir projeto no Visual Studio
 
-# Rodar aplicação
+$ Rodar aplicação
 
-# Realizar as consultas através da documentação SWAGGER ou através do Postman/Insominia
+$ Realizar as consultas através da documentação SWAGGER ou através do Postman/Insominia
 
 
 ### 🛠️ Tecnologias
 ---
 - C#
-- - [.NET Core](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6)
+- [.NET Core](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-6)
 
 <br/>
 
